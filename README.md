@@ -1,5 +1,4 @@
 # Travel Agent Booking System
-==============================
 
 A simple travel agent booking system for a Second Year Java project. 
 When the TestBooking class is run, the console will prompt the user for thier 
